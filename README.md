@@ -1,4 +1,4 @@
-# internet-archive-book-flickr-upload
+# Internet Archive Flickr Uploader
 
 This script is used to upload the images from a text object (book) at the Internet Archive to Flickr. 
 It takes an Internet Archive Identiifer as the single argument and uses the data at IA to identify,
